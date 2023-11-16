@@ -4,3 +4,6 @@ click discord chat to join!
 # server 2 (old)
 [![Discord chat](https://img.shields.io/discord/1059078968847913050?logo=discord&logoColor=white)](https://discord.gg/6reEAZx5qD)
 click discord chat to join
+
+# discord hai1723
+discord:hai1723fake
