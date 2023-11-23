@@ -4,7 +4,7 @@
 
 # tiktok link(https://www.tiktok.com/@haingng1/)
 
-[![tik tok](https://www.tiktok.com?lang=vi-vn)](https://www.tiktok.com/@haingng1/)
+[![tik tok](https://img-cache.coccoc.com/image2?i=1&l=78/72622911)](https://www.tiktok.com/@haingng1/)
 
 # server 1 (new) (link server: https://dsc.gg/serverhai1723)
 [![Discord chat1](https://img.shields.io/discord/1174679050455875636?logo=discord&logoColor=white)](https://discord.gg/NAwpFZVe9h)
