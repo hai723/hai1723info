@@ -1,5 +1,5 @@
-# tiktok
-[![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61552555916525)
+# tik tok
+[![Static Badge](https://img.shields.io/badge/tiktok-white?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@haingng1)
 # server 1 (new) (link server: https://dsc.gg/serverhai1723)
 [![Discord chat1](https://img.shields.io/discord/1174679050455875636?logo=discord&logoColor=white)](https://discord.gg/NAwpFZVe9h)
 click discord chat to join!
