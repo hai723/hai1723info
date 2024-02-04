@@ -1,4 +1,5 @@
-https://komarev.com/ghpvc/?username=hai723&style=for-the-badge&color=000000
+![Static Badge](https://komarev.com/ghpvc/?username=hai723&style=for-the-badge&color=000000)
+
 # tik tok
 [![Static Badge](https://img.shields.io/badge/tiktok-white?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@haingng1)
 # server 1 (new) (link server: discord.gg/UhVwC83uXw)
