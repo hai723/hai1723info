@@ -3,7 +3,7 @@
 # tik tok
 [![Static Badge](https://img.shields.io/badge/tiktok-white?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@haingng1)
 # server 1 (2/23/2024 update link)
-[![Discord chat1](https://img.shields.io/discord/1174679050455875636?logo=discord&logoColor=white)](https://discord.gg/UhVwC83uXw)
+[![Discord chat1](https://img.shields.io/discord/1205443710863810630?logo=discord&logoColor=white)](discord.gg/W4zrNzuAMU)
 click discord chat to join!
 
 # discord hai1723
