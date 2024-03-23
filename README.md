@@ -12,5 +12,3 @@ discord:hai1723fake
 [infodiscordclick](https://is.gd/dishaiinfo)
 
 ![Static Badge](https://discord-readme-badge.vercel.app/api?id=1162680551912775680)
-
-real:http://info.haingoc8.repl.co/
